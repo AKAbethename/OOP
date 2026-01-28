@@ -21,13 +21,6 @@ x64/
 x86/
 CMakeFiles/
 
-# Файлы CMake
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-*.ninja
-*.ninja_deps
-
 # IDE и редакторы
 .vscode/
 .idea/
@@ -45,3 +38,9 @@ Thumbs.db
 # Система
 *.pid
 *.lock
+
+*.o
+*.out
+*.exe
+build/
+cmake-build-*/
