@@ -1,1 +1,3 @@
-# OOP labs, 3 semester, SPbPU
+# OOP 
+
+## 3 semester's labs, SPbPU
